@@ -5,10 +5,11 @@ Ugly and dirty C code: Learning and Testing
 
 # LaTex code test
 
-Sobre o arquivo OnonP1.c: Meu celebro não ta raciocionando bem, então fique atento que $\forall m, k \in Z^{+}$ deve ser NECESSARIAMENTE VERDADE para todas instancias de
-$m$ e $k$, contudo, é razoável concluir que essa formula precisa duma melhor generalização matemática. 
+Sobre o arquivo OnonP1.c: Meu celebro não ta raciocionando bem, então fique atento que $\forall m, k, \in Z^{+}$ deve ser NECESSARIAMENTE VERDADE para todas instancias de
+$m$ e $k$, contudo, é razoável concluir que essa formula precisa duma melhor generalização matemática. Outro ponto também, é que para condição de existencia do primeiro impar
+comosto, $(k \lor m) \geq 1$, quando $(k \lor m) \geq 0$, apenas nos permite vizualizar como vai ser dada a sequencia de cada output.
 
-generalização:
+generalização básica:
 
 $n(m, k) = (2m + 1)(2k + 1)$
 
@@ -27,9 +28,9 @@ E aqui vai uma tabela de inputs:
 | 4 | 1 | 9 × 3 = 27       |
 
 
-Como pode-se notar, uma formula matematica geral é desejável. Deixe que $\mathbb{P}$ seja o conjunto dos primos e $p \in \mathbb{P}$, logo,
-faça um experimento com $2np + p^{2}$, e denovo chegaremos a conclusão de que é necessário de uma forma mais generalizada. Aqui, eu não prezei pela 
-ordenação dos elementos, essa progressão é agradável em bora muito simples e previsivel. Note também que esse tipo de declaração necessita de prova matemática.
+Como pode-se notar, uma formula matemática realmente geral é desejável. Deixe que $\mathbb{P}$ seja o conjunto dos primos e $p \in \mathbb{P}$, onde $p > 2$, logo,
+faça um experimento por exmplo com $2np + p^{2}$, e denovo chegaremos a conclusão de que é necessário de uma forma mais generalizada. Aqui, eu não prezei pela 
+ordenação dos elementos, deixei a progressão natural da coisa, essa progressão é agradável em bora muito simples e previsivel. Note também que esse tipo de declaração necessita de prova matemática.
 
 
 
