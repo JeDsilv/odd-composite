@@ -1,11 +1,11 @@
 # odd-composite
 Ugly and dirty C code: Learning and Testing
 
-Sobre o arquivo OnonP1.c: 
+
 
 # LaTex code test
 
-Meu celebro não ta raciocionando bem, então fique atento que $\forall m, k \in Z$ deve ser NECESSARIAMENTE VERDADE para todas instancias de
+Sobre o arquivo OnonP1.c: Meu celebro não ta raciocionando bem, então fique atento que $\forall m, k \in Z^{+}$ deve ser NECESSARIAMENTE VERDADE para todas instancias de
 $m$ e $k$, contudo, é razoável concluir que essa formula precisa duma melhor generalização matemática. 
 
 generalização:
@@ -30,3 +30,22 @@ E aqui vai uma tabela de inputs:
 Como pode-se notar, uma formula matematica geral é desejável. Deixe que $\mathbb{P}$ seja o conjunto dos primos e $p \in \mathbb{P}$, logo,
 faça um experimento com $2np + p^{2}$, e denovo chegaremos a conclusão de que é necessário de uma forma mais generalizada. Aqui, eu não prezei pela 
 ordenação dos elementos, essa progressão é agradável em bora muito simples e previsivel. Note também que esse tipo de declaração necessita de prova matemática.
+
+
+
+Sobre o arquivo OnonP2.c:
+
+Esse foi meu caso geral que desenvolvi, e está muito horrível. Vejamos
+
+$n_{i} = (2m + 1)(2k+ 1)$ , perceba que $m$ 
+
+$m = \Bigg  \lfloor  \frac{1 + \sqrt{1 + 8i}}{2}  \Bigg \rfloor $
+
+Com $k$, dar-se o mesmo processo
+
+$k = \Bigg  \lfloor  i - \frac{m(m-1) + 1}{2}  \Bigg \rfloor $
+
+OBS: $i$ não é um numero complexo, mas sim um número inteiro positivo.
+
+
+
