@@ -7,7 +7,7 @@ Ugly and dirty C code: Learning and Testing
 
 Sobre o arquivo OnonP1.c: Meu celebro não ta raciocionando bem, então fique atento que $\forall m, k, \in Z^{+}$ deve ser NECESSARIAMENTE VERDADE para todas instancias de
 $m$ e $k$, contudo, é razoável concluir que essa formula precisa duma melhor generalização matemática. Outro ponto também, é que para condição de existencia do primeiro impar
-comosto, $(k \lor m) \geq 1$, quando $(k \lor m) \geq 0$, apenas nos permite vizualizar como vai ser dada a sequencia de cada output.
+comosto, $(k \lor m) \geq 1$. Contudo, quando $(k \lor m) \geq 0$, apenas nos permite vizualizar como vai ser dada a sequencia de cada output.
 
 generalização básica:
 
