@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Criado por: J. D Silva
 // Propósito: Dirty Code - Apenas para aprendizado
 
 void gerar_impares_compostos(int limite) {
