@@ -38,15 +38,15 @@ Sobre o arquivo OnonP2.c:
 
 Esse foi meu caso geral que desenvolvi, e está muito horrível. Vejamos
 
-$n_{i} = (2m + 1)(2k+ 1)$ , perceba que $m$ 
+$n_{o} = (2m + 1)(2k+ 1)$ , perceba que $m$ 
 
-$m = \Bigg  \lfloor  \frac{1 + \sqrt{1 + 8i}}{2}  \Bigg \rfloor $
+$m = \Bigg  \lfloor  \frac{1 + \sqrt{1 + 8o}}{2}  \Bigg \rfloor $
 
 Com $k$, dar-se o mesmo processo
 
-$k = \Bigg  \lfloor  i - \frac{m(m-1) + 1}{2}  \Bigg \rfloor $
+$k = \Bigg  \lfloor  o - \frac{m(m-1) + 1}{2}  \Bigg \rfloor $
 
-OBS: $i$ não é um numero complexo, mas sim um número inteiro positivo.
+
 
 
 
