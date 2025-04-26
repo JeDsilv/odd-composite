@@ -26,7 +26,11 @@ E aqui vai uma tabela de inputs:
 | 3 | 2 | 7 × 5 = 35       |
 | 3 | 3 | 7 × 7 = 49       |
 | 4 | 1 | 9 × 3 = 27       |
-
+| 4 | 2 | ..........       |
+| 4 | 3 | ..........       |
+| 4 | 4 | ..........       |
+| 5 | 1 | ..........       |
+| $m$ | $k$ |  ..........  |
 
 Como pode-se notar, uma formula matemática realmente geral é desejável. Deixe que $\mathbb{P}$ seja o conjunto dos primos e $p \in \mathbb{P}$, onde $p > 2$, logo,
 faça um experimento por exmplo com $2np + p^{2}$, e denovo chegaremos a conclusão de que é necessário de uma forma mais generalizada. Aqui, eu não prezei pela 
