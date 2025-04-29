@@ -36,7 +36,9 @@ E aqui vai uma tabela de inputs:
 | 5 | 1 | ..........       |
 | $m$ | $k$ |  ..........  |
 
-Como pode-se notar, uma formula matemática mais geral é desejável. Deixe que $\mathbb{P}$ seja o conjunto dos primos e $p \in \mathbb{P}$, onde $p > 2$, logo,
+NOTA: A ordem não mas evedidentemente também o produtos que se repetem. 
+
+Como pode-se notar, uma formula matemática absoluta é desejável. Deixe que $\mathbb{P}$ seja o conjunto dos primos e $p \in \mathbb{P}$, onde $p > 2$, logo,
 faça um experimento por exmplo com $2np + p^{2}$, e denovo chegaremos a conclusão de que é necessário de uma forma mais generalizada. Aqui, eu não prezei pela 
 ordenação dos elementos, deixei a progressão natural da coisa, essa progressão é agradável em bora muito simples e previsivel. Note também que esse tipo de declaração 
 é daquelas que necessita de uma prova, mas sinceramente? Ignore.
