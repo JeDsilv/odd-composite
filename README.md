@@ -1,5 +1,5 @@
 # odd-composite
-Ugly and dirty C code: Learning and Testing
+Ugly and dirty C code and Math: Learning and Testing
 
 
 
@@ -55,7 +55,6 @@ Com $k$, dar-se o mesmo processo
 
 $k = \Bigg  \lfloor  o - \frac{m(m-1) + 1}{2}  \Bigg \rfloor $
 
-
-
-
+Por que esse segundo caso é mais interessante apesar de parecer feio? Justamente por que so precisamos de uma unica entra $\forall o$
+$\in$ $\mathbb{Z}_{\geq 0}$ onde achando o valor de $m$ consegue-se determinar $k$, e claro que esse segundo caso é menos eficiente para maquina.
 
