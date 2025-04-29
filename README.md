@@ -7,7 +7,7 @@ Ugly and dirty C code and Math: Learning and Testing
 
 Sobre o arquivo OnonP1.c: Meu celebro não ta raciocionando bem, então fique atento que $\forall m, k, \in Z^{+}$ deve ser NECESSARIAMENTE VERDADE para todas instancias de
 $m$ e $k$, contudo, é razoável concluir que a primeira expressão precisa duma melhor generalização matemática. Outro ponto também, é que para condição de existencia do primeiro impar
-composto, é necessario que $(k \land m) \geq 1$. Contudo, quando $(k \lor m) \geq 0$, apenas nos permite vizualizar como vai ser dada a sequencia de cada output.
+composto, é necessario que $(k \land m) \geq 1$. Contudo, quando $(k \lor m) \geq 0$, apenas nos permite vizualizar como vai ser dada a sequência de cada saida.
 
 generalização básica:
 
@@ -58,3 +58,5 @@ $k = \Bigg  \lfloor  o - \frac{m(m-1) + 1}{2}  \Bigg \rfloor $
 Por que esse segundo caso é mais interessante apesar de parecer feio? Justamente por que so precisamos de uma unica entra $\forall o$
 $\in$ $\mathbb{Z}_{\geq 0}$ onde achando o valor de $m$ consegue-se determinar $k$, e claro que esse segundo caso é menos eficiente para maquina.
 
+OBS: Eu poderia falar sobre o problema dos pares ordenados que são notados nesse tipo de abordagem, mas me falta estomago pra isso.
+Veja que se você solucionar esse simples problema, ira lhe proporcionar um ganho de perfomance significativo, deve ficar em torno de 20% a 30%. Felizmente, a solução para esse algoritmo mais eficiente não é tão complexo, essas soluções são bastante ambudantes.  
